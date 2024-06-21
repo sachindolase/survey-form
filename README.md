@@ -1,3 +1,5 @@
+# Surdeep singh React.js Developement Assignment
+
 # Level 3: 
 Advanced Dynamic Form with Complex Conditional Logic, Dynamic Sections, and Integration with an API.
 
@@ -53,4 +55,10 @@ entered data along with the additional questions.
 ● Implement custom hooks for form validation and management.
 ● Integrate with an external API for data fetching.
 ● Ensure a clean and user-friendly interface with clear error messages.
- 
+
+ Screenshots: 
+ ![Screenshot (682)](https://github.com/sachindolase/survey-form/assets/125812863/5eddc869-d6ed-481b-9165-cda1d53b5761)
+ ![Screenshot (683)](https://github.com/sachindolase/survey-form/assets/125812863/6d51bab0-ba32-4d7b-91be-f9b3b72ba669)
+
+ Live Demo :- 
+
